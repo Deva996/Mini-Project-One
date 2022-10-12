@@ -1,0 +1,32 @@
+table {
+    border: 8px solid rgb(15, 18, 202);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background-color:cornflowerblue;
+    color: rgb(16, 17, 16);
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 5px solid rgb(228, 21, 125);
+}
+body{
+    background-image: url(properimage.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
